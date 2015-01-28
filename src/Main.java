@@ -5,5 +5,7 @@ public class Main {
 		
 		System.out.println("a greeting");
 		test.display();
+		
+		System.out.println("test 2");
 	}
 }
