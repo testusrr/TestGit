@@ -4,5 +4,7 @@ public class Test {
 	
 	public void display(){
 		System.out.println("TODO: display test data");
+		
+		System.out.println("test 1");
 	}
 }
